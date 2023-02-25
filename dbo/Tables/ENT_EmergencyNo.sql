@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[ENT_EMERGENCYN] (
+﻿CREATE TABLE [dbo].[ENT_EmergencyNo] (
     [EmergencyNumberID] INT      IDENTITY (1, 1) NOT NULL,
     [CountryID]         INT      NULL,
     [StateID]           INT      NULL,
