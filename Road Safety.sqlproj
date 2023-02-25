@@ -70,5 +70,9 @@
     <Build Include="dbo\Stored Procedures\Selectall.sql" />
     <Build Include="dbo\Tables\WHT_WEATHER.sql" />
     <Build Include="dbo\Tables\ACT_ACCIDENT.sql" />
+    <Build Include="dbo\Tables\MST_Vehical.sql" />
+    <Build Include="dbo\Tables\MST_EmergencyContactType.sql" />
+    <Build Include="dbo\Tables\LOC_State.sql" />
+    <Build Include="dbo\Tables\LOC_Country.sql" />
   </ItemGroup>
 </Project>
