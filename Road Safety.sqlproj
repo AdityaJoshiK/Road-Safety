@@ -61,7 +61,6 @@
     <Folder Include="dbo\Stored Procedures\" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="dbo\Tables\Demo2.sql" />
     <Build Include="dbo\Stored Procedures\Selectall.sql" />
     <Build Include="dbo\Tables\MST_RoadType_1.sql" />
     <Build Include="dbo\Tables\MST_Hospital_1.sql" />
@@ -69,5 +68,7 @@
     <Build Include="dbo\Tables\ENT_EMERGENCYN_1.sql" />
     <Build Include="dbo\Tables\Demo2.sql" />
     <Build Include="dbo\Stored Procedures\Selectall.sql" />
+    <Build Include="dbo\Tables\WHT_WEATHER.sql" />
+    <Build Include="dbo\Tables\ACT_ACCIDENT.sql" />
   </ItemGroup>
 </Project>
