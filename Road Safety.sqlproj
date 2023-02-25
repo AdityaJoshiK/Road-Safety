@@ -65,7 +65,6 @@
     <Build Include="dbo\Tables\MST_RoadType_1.sql" />
     <Build Include="dbo\Tables\MST_Hospital_1.sql" />
     <Build Include="dbo\Tables\LOC_Area_1.sql" />
-    <Build Include="dbo\Tables\ENT_EMERGENCYN_1.sql" />
     <Build Include="dbo\Tables\Demo2.sql" />
     <Build Include="dbo\Stored Procedures\Selectall.sql" />
     <Build Include="dbo\Tables\WHT_WEATHER.sql" />
@@ -74,5 +73,7 @@
     <Build Include="dbo\Tables\MST_EmergencyContactType.sql" />
     <Build Include="dbo\Tables\LOC_State.sql" />
     <Build Include="dbo\Tables\LOC_Country.sql" />
+    <Build Include="dbo\Tables\MST_User.sql" />
+    <Build Include="dbo\Tables\LOC_City.sql" />
   </ItemGroup>
 </Project>
